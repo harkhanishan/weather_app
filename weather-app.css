@@ -1,0 +1,85 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family:'Montserrat', sans-serif;
+    /*background-image: url("https://source.unsplash.com/1600x900/?landscape");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    width: 100%;
+    max-width: 460px;
+    padding: 30px;
+    border-radius: 30px;
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.searchbar{
+    font-size: 18px;
+    padding: 15px;
+    color: #fff;
+    background-color: rgba(0,0,0);
+    border: 1px solid #fff;
+    outline: none;
+    border-radius: 15px;
+    margin: 20px;
+    width: 300px;
+}
+.searchbar::placeholder{
+    color: lightslategrey;
+}
+.searchbutton{
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    font-size: large;
+    color: #fff;
+    background: rgba(0,0,0);
+    cursor: pointer;
+}
+.searchbutton:hover{
+    background: rgba(0,0,0,0.5);
+}
+.city{
+    margin-top: 20px;
+    font-size: 60px;
+}
+.temp{
+    margin: 30px auto;
+}
+.temp h1{
+    font-size: 45px;
+}
+.temp span{
+    font-size: 25px;
+    display: block;
+}
+.info{
+    width: 100%;
+    list-style-type: none;
+    background-color: #63a4ff;
+    background-image: linear-gradient(315deg, #63a4ff 0%, #83eaf1 74%);
+    max-width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+.info li{
+    display: inline-block;
+    text-align: center;
+}
+.info li h3,h4{
+    margin: 10px auto;
+}
