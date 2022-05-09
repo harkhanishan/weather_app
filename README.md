@@ -9,4 +9,4 @@ Demo:
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/103566086/167392123-d613299d-9b3c-4b66-bef0-694778b37f6a.png)
 
-![Screenshot (14)](https://user-images.githubusercontent.com/103566086/167392143-edee233a-b292-432b-80bb-57914c0b32d6.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/103566086/167392342-ca7f6ac6-2d99-49d7-af8a-4415ae1238fb.png)
